@@ -9,7 +9,7 @@ Este é um projeto simples de IA generativa utilizando **GPT-2** da Hugging Face
 
 ### 1️⃣ Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/ia-generativa.git
+git clone https://github.com/seu-usuario/ia_generativa_one.git
 cd ia-generativa
 ```
 
