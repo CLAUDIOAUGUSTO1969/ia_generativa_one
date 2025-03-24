@@ -20,7 +20,7 @@ pip install torch transformers
 
 ### 3️⃣ Execute o script:
 ```bash
-python ia_generativa.py
+python ia_one.py
 ```
 
 ### 4️⃣ Insira um texto de entrada e veja a IA continuar gerando conteúdo!
