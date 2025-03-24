@@ -28,7 +28,7 @@ python ia_one.py
 ## 📄 Estrutura do Projeto
 ```
 📂 ia-generativa
-│── ia_generativa.py  # Código principal
+│── ia_one.py  # Código principal
 │── README.md         # Documentação
 └── requirements.txt  # Dependências
 ```
